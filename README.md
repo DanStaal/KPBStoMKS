@@ -14,6 +14,10 @@ Both workbenches are simple clones of the airlocks, and have EL+OSE workshop sup
 
 The new containers are clones of the fuel tanks, and get appropriate logistics.  (See below.)  RocketParts will only show with EL and not UKS, while the others will show up with either UKS or OSE.
 
+## Extraplanetary Launchpads Support
+
+In addition to the parts above, these patches add Survey Station capability (and modest productivity) to the Central Hub and Cupola.
+
 ## Logistics:
 
 The following logistics are added:
