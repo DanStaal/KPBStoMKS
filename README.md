@@ -26,7 +26,6 @@ The following logistics are added:
 - Distributed Warehouses to all large container tanks.
 - Planetary Distribution support to the large fuel tank.
 - Consumer support to FuelCell, Algae, and Greenhouse tanks.
-- Consumer support to all crewed parts.
 - Power coupler support to the Central Hub and the Inline Control Center.
 
 ## Future Plans
