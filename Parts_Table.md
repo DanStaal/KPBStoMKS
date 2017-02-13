@@ -14,3 +14,14 @@
 | MK1 Habitat              | KKAOSS_Habitat_MK1_g                 | 1.7  | 3     | 20/3   | 0          | 0.45         | n/a        |
 | Cupola                   | KKAOSS_Cupola_g                      | 1.75 | 1     | 0      | 2/2        | 0.09         | n/a        |
 | Science Lab              | KKAOSS_Science_g                     | 3.55 | 2     | 0      | 1.25       | :1.2         | 50/5       |
+
+Machinery density = 0.00378
+
+Seconds per Kerbin Month = 138,961.195832704212592
+
+# Habitation
+
+| Part | PartName | Mass | Seats | CrewAffect | Months | Multiplier | EC/s | Machinery | Machinery/s |
+|:-----|:---------|------|-------|------------|--------|------------|------|-----------|-------------|
+| Tundra Kerbitat | Tundra_Kerbitat250 | 7.65 | 2 | 4 | 18.5 | 0 | 0.4625 | 0 | 0 |
+| MK1 Habitat | KKAOSS_Habitat_MK1_g | 1.7 | 3 | 3 | 10 | 0 | 0.45 | 550 | 0.004 |
