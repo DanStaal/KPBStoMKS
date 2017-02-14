@@ -19,10 +19,9 @@ The new containers are clones of the fuel tanks, and get appropriate logistics. 
 The following logistics are added:
 
 - Warehouses to all container tanks.
-- Distributed Warehouses to all large container tanks.
 - Consumer support to FuelCell, Algae, and Greenhouse tanks.
 - Power coupler support to the Central Hub and the Inline Control Center.
 
 ## Future Plans
 
-These patches really need to add livingSpace and workSpace where appropriate.
+A complete MKS production chain is planned.
