@@ -1,6 +1,6 @@
 # MKS (and OSE) addons for Kerbal Planetary Base Systems
 
-This is a simple set of compatablity patches enabling MKS support in Kerbal Planetary Base Systems.  Currently it focuses on two specific MKS mechanics: Wear and Logistics.  In addition it enables rudimentary support for OSE Workshops, and enables Kolonization bonuses when using KPBS parts.
+This is a simple set of compatablity patches enabling MKS support in Kerbal Planetary Base Systems.  Currently it focuses on two specific MKS mechanics: Wear and Logistics.  In addition it enables rudimentary support for OSE Workshops, and enables Kolonization bonuses when using KPBS parts, as well as tying in to some other MKS niceties.  (Weight transfer in applicable places, and support for intertial tethering, for instance.)
 
 ## IMPORTANT NOTE FOR PATHFINDER USERS!!!
 
@@ -40,5 +40,14 @@ The following logistics are added:
 
 A complete MKS production chain is planned.
 
+## Acknowledgements and Thanks
+
+This has been a team effort.  Part models and textures are by dboi88.  Merkov has provided balance suggestions, configs, and help with the .version file.
+
+Gracious thanks goes to Nils277 for access to original model files and textures.
+
+Thanks also to RoverDude for his creation of a balance spreadsheet to help make sure parts aren’t over- or under-powered compared to MKS parts.
+
 ## Changelog
 
+0.9.5 beta - Update to MKS .50+, adding the new Kontainers, power blocks, adjusting logistics to the new model, adding construction ports, etc.
