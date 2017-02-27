@@ -2,6 +2,8 @@
 
 This is a simple set of compatablity patches enabling MKS support in Kerbal Planetary Base Systems.  Currently it focuses on two specific MKS mechanics: Wear and Logistics.  In addition it enables rudimentary support for OSE Workshops, and enables Kolonization bonuses when using KPBS parts, as well as tying in to some other MKS niceties.  (Weight transfer in applicable places, and support for intertial tethering, for instance.)
 
+Of course, Kerbal Planetary Base Systems is required, as is Module Manager.  Technically nothing else is - but this patch set won’t do much without MKS, Konstruction, USI-LS, or OSE Workshops installed.  (Mostly MKS - but minimal requirements are applied to each part.)
+
 ## IMPORTANT NOTE FOR PATHFINDER USERS!!!
 
 Pathfinder supplants many of the KPBS parts with it’s own variants, which aren’t particularly well suited to MKS, and would be a pain to work around.  Therefore:
