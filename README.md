@@ -52,11 +52,11 @@ Thanks also to RoverDude for his creation of a balance spreadsheet to help make 
 
 ## Changelog
 
-    - 0.9.5 beta: New version for MKS 0.50+.  New features include:
-        - Fully functional Kontainers (The old tanks are depreciated)
-        - Ground Construction support
-        - Construction Ports in KPBS form-factors
-        - Power distribution parts that fit in KPBS racks.
-        - Logistics Rebalance
-        - Weight Transfer for the KPBS racks and containers.
-        - Probably more I've forgotten.
+  - 0.9.5 beta: New version for MKS 0.50+.  New features include:
+    - Fully functional Kontainers (The old tanks are depreciated)
+    - Ground Construction support
+    - Construction Ports in KPBS form-factors
+    - Power distribution parts that fit in KPBS racks.
+    - Logistics Rebalance
+    - Weight Transfer for the KPBS racks and containers.
+    - Probably more I've forgotten.
