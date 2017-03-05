@@ -1,1 +1,18 @@
+
+ - New version for MKS 0.50+.  New features include:
+    - Fully functional Kontainers (The old tanks are depreciated)
+    - Ground Construction support
+    - Construction Ports in KPBS form-factors
+    - Power distribution parts that fit in KPBS racks.
+    - Logistics Rebalance
+    - Weight Transfer for the KPBS racks and containers.
+    - Probably more I've forgotten.
+
+ - 2017-02-06 Added MM file to remove Pathfinder additions.
+ - 2017-02-02 Deduplicated module insertions.
+ - 2017-02-01 Rebalanced Logistics.
+ - 2017-02-01 Added Inertial Dampers and MKSModules to everything.
+ - 2017-02-01 Removed most EL adaptations.  (KPBS supports that in base now.)
+ - 2017-02-01 Removed MKS adaptor.
+ - 2017-02-01 Revamped to use Git-Flow workflow.
  - 2016-08-01 Added MKS adaptor (start).
