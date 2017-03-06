@@ -9,7 +9,6 @@ Seconds per Kerbin Month = 138,961.195832704212592
 |:-------------------------|:-------------------------------------------|---------|----------|-------|--------|------------|-----------------------|------------|-----------------------|
 | Algae Container          | KKAOSS\_LS\_container\_algae               | 0.5     | 2.4      | 0     | n/a    | n/a        | n/a                   | n/a        | no                    |
 | *Carbon Extractor*       | *KKAOSS\_LS\_container\_carbon\_extractor* | *0.7*   | *?*      | *0*   | *n/a*  | *n/a*      | *n/a*                 | *n/a*      | *no*                  |
-| *Elektron Container*     | *KKAOSS\_LS\_container\_elektron*          | *0.7*   | *?*      | *0*   | *n/a*  | *n/a*      | *n/a*                 | *n/a*      | *no*                  |
 | Greenhouse Container     | KKAOSS\_LS\_container\_greenhouse          | 0.5     | 2.4      | 0     | n/a    | n/a        | n/a                   | n/a        | no                    |
 | Water Purifier Container | KKAOSS\_LS\_container\_waterpurifier       | 0.7     | 1.2      | 0     | n/a    | n/a        | n/a                   | n/a        | no                    |
 | Recycler Container       | KKAOSS\_USI\_Recicler\_g                   | 0.7     | 1.2      | 0     | n/a    | n/a        | 1                     | 60/2       | no                    |
