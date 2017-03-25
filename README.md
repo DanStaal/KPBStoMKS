@@ -22,6 +22,7 @@ These patches add the following parts:
 - Construction-port compatible docking port variants of both KPBS docking ports.
 - A short-range power distribution block in the KPBS container format.
 - A long-range power distribution block in the KPBS container format.
+- Planetary Cultivators for both the Dirt and Substrate paths to Supplies, based on the Greenhouse.
 
 Both workbenches are simple clones of the airlocks, and have OSE workshop support, as well as MKS autorepair support.  The end-units are slightly more productive than the inline units.
 
@@ -38,13 +39,20 @@ The following logistics are added:
 - Local logistics extension to both the Central Hub and the Planetary Command Module.
 - Planetary Logistics to the Central Hub.
 
+## Other Changes:
+
+Other miscellaneous changes:
+
+- Mode-swapping costs added to the Algae container.
+- Deployment costs added to the Greenhouse, MK2-Habitat, and Science Lab.
+
 ## Future Plans
 
 A complete MKS production chain is planned.
 
 ## Acknowledgements and Thanks
 
-This has been a team effort.  Part models and textures are by dboi88.  Merkov has provided balance suggestions, configs, and help with the .version file.
+This has been a team effort.  Part models and textures are by dboi88.  Merkov has provided balance suggestions, *many* configs, and help with the .version file.
 
 Gracious thanks goes to Nils277 for access to original model files and textures.
 
@@ -52,7 +60,14 @@ Thanks also to RoverDude for his creation of a balance spreadsheet to help make 
 
 ## Changelog
 
-  - 0.9.5 beta: New version for MKS 0.50+.  New features include:
+- Life Support Revision - New version in conjunction with KPBS 1.5
+    - Added Planetary Cultivation parts
+    - Added resource-cost for switching Algae container modes.
+    - Added deployment costs for MK2-Hab, Greenhouses, and ScienceLab
+    - Removed ReplacementParts from the Workbenches.
+    - Racks no longer generate Kolony Rewards.
+
+- 0.9.5 beta: New version for MKS 0.50+.  New features include:
     - Fully functional Kontainers (The old tanks are depreciated)
     - Ground Construction support
     - Construction Ports in KPBS form-factors
