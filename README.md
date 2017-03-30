@@ -66,6 +66,7 @@ Thanks also to RoverDude for his creation of a balance spreadsheet to help make 
     - Added deployment costs for MK2-Hab, Greenhouses, and ScienceLab
     - Removed ReplacementParts from the Workbenches.
     - Racks no longer generate Kolony Rewards.
+    - Rock added to Containers
 
 - 0.9.5 beta: New version for MKS 0.50+.  New features include:
     - Fully functional Kontainers (The old tanks are depreciated)
