@@ -11,3 +11,12 @@
 
 # Our eTags
 
+# Examples
+
+	MODULE
+	{
+		name = MKSModule
+		eTag = Greenhouse
+		eMultiplier = 1.505
+		BonusEffect = ScienceBoost
+	}
