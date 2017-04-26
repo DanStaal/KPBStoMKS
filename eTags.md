@@ -17,6 +17,6 @@
 	{
 		name = MKSModule
 		eTag = Greenhouse
-		eMultiplier = 1.505
-		BonusEffect = ScienceBoost
+		eMultiplier = 1.505   //  Based on mass, formula is: 100%+((efficincy parts)/main part)
+		BonusEffect = ScienceBoost  // Which Kolonization bonus this part adds to.
 	}
