@@ -1,4 +1,6 @@
 
+- Fixed typo in .version file.
+
 - Life Support Revision - New version in conjunction with KPBS 1.5
    - Added Planetary Cultivation parts
    - Added resource-cost for switching Algae container modes.

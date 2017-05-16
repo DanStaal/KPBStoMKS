@@ -11,6 +11,11 @@
 
 # Our eTags
 
+- Stage_One
+    ~ Polymers, MaterialKits
+- Stage_Two
+    ~ SpecializedParts, Machinery, ColonySupplies
+
 # Examples
 
 	MODULE
