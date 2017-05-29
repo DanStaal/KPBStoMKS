@@ -1,8 +1,8 @@
 {
     "NAME":"MKS Patches for KPBS",
-    "URL":"http://github.com/DanStall/KPBStoMKS/Release/KPBStoMKS.version",
+    "URL":"http://github.com/DanStaal/KPBStoMKS/Release/KPBStoMKS.version",
     "DOWNLOAD":"http://github.com/DanStaal/KPBStoMKS/releases",
-    "CHANGE_LOG_URL":"http://github.com/DanStall/KPBStoMKS/Release/CHANGELOG"
+    "CHANGE_LOG_URL":"http://github.com/DanStaal/KPBStoMKS/Release/CHANGELOG"
 	"GITHUB":
     {
         "USERNAME":"DanStaal",
